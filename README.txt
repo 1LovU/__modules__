@@ -8,3 +8,15 @@ I will keep on updating this place.
                         usage: 
                         from xml_json_parser import xml_json_parse
                         my_dict = xml_json_parse(xml_or_json_string)
+
+
+
+
+
+
+
+
+
+
+
+
